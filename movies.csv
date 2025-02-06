@@ -1,0 +1,31 @@
+Movie_ID,Genre,Director,Actors,Rating
+1,Action,Christopher Nolan,Leonardo DiCaprio,8.9
+2,Comedy,Wes Anderson,Bill Murray,7.4
+3,Drama,Martin Scorsese,Robert De Niro,8.2
+4,Horror,James Wan,Vera Farmiga,7.1
+5,Action,Steven Spielberg,Tom Hanks,8.5
+6,Drama,Quentin Tarantino,Samuel L. Jackson,8.7
+7,Comedy,Edgar Wright,Simon Pegg,7.8
+8,Sci-Fi,Dennis Villeneuve,Amy Adams,8.0
+9,Thriller,David Fincher,Brad Pitt,8.6
+10,Horror,Jordan Peele,Lupita Nyong'o,7.5
+11,Fantasy,Peter Jackson,Elijah Wood,8.9
+12,Animation,Hayao Miyazaki,Chieko Baisho,8.6
+13,Action,George Miller,Tom Hardy,8.1
+14,Sci-Fi,Christopher Nolan,Matthew McConaughey,8.8
+15,Drama,Francis Ford Coppola,Marlon Brando,9.2
+16,Thriller,Alfred Hitchcock,James Stewart,8.5
+17,Romance,Richard Linklater,Julie Delpy,8.1
+18,Adventure,Steven Spielberg,Harrison Ford,8.4
+19,Animation,Brad Bird,Craig T. Nelson,8.0
+20,Crime,Martin Scorsese,Joe Pesci,8.7
+21,Horror,John Carpenter,Jamie Lee Curtis,7.3
+22,Fantasy,Guillermo del Toro,Doug Jones,8.2
+23,Comedy,Taika Waititi,Chris Hemsworth,7.7
+24,Drama,Greta Gerwig,Saoirse Ronan,7.9
+25,Action,Russo Brothers,Robert Downey Jr.,8.4
+26,Sci-Fi,James Cameron,Arnold Schwarzenegger,8.6
+27,Thriller,Park Chan-wook,Min-sik Choi,8.4
+28,Musical,Damien Chazelle,Emma Stone,8.0
+29,Western,Clint Eastwood,Clint Eastwood,8.1
+30,Drama,Bong Joon-ho,Song Kang-ho,8.6
